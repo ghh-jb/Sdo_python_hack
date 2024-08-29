@@ -2,4 +2,4 @@
 Find hidden tests
 
 
-Currently there ius no support for finding correct output for tests... Working on it:/
+Currently there is no support for finding correct output for tests... Working on it:/
